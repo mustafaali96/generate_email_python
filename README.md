@@ -21,7 +21,7 @@ If you use 2-Step-Verification and get a "password incorrect" error when you sig
 	<pre>`a.` 2-Step Verification is not set up for your account. </br>
 	`b.` 2-Step Verification is only set up for security keys. </br>
 	`c.` Your account is through work, school, or other organization. </br>
-	`d.` You turned on Advanced Protection. </pre> </br> 
+	`d.` You turned on Advanced Protection. </pre>
 `4` At the bottom, choose Select app "Other" and name it "Python email sender" and then Generate. </br>
 `5` Follow the instructions to enter the App Password. The App Password is the 16-character code in the yellow bar on your device. </br>
 `6` Tap Done.
