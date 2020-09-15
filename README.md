@@ -15,9 +15,9 @@ To give access to your Google Account Open this url [Unlock Captcha](https://acc
 ## 2. Create & use App Passwords
 If you use 2-Step-Verification and get a "password incorrect" error when you sign in, you can try to use an App Password.
 
-`1` Go to your Google Account. </br>
-`2` Select Security. </br>
-`3` Under "Signing in to Google," select App Passwords. You may need to sign in. If you don’t have this option, it might be because: </br>
+`1` Go to your [Google Account](https://myaccount.google.com/). </br>
+`2` Select [Security](https://myaccount.google.com/security). </br>
+`3` Under "Signing in to Google," select [App Passwords](https://myaccount.google.com/apppasswords). You may need to sign in. If you don’t have this option, it might be because: </br>
 	<pre>`a.` 2-Step Verification is not set up for your account. </br>
 	`b.` 2-Step Verification is only set up for security keys. </br>
 	`c.` Your account is through work, school, or other organization. </br>
