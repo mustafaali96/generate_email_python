@@ -18,7 +18,7 @@ If you use 2-Step-Verification and get a "password incorrect" error when you sig
 1 Go to your Google Account. </br>
 2 Select Security. </br>
 3 Under "Signing in to Google," select App Passwords. You may need to sign in. If you don’t have this option, it might be because: </br>
-	`a 2-Step Verification is not set up for your account.` </br>
+	   `a` 2-Step Verification is not set up for your account. </br>
 	`b` 2-Step Verification is only set up for security keys. </br>
 	`c` Your account is through work, school, or other organization. </br>
 	`d` You turned on Advanced Protection. </br>
